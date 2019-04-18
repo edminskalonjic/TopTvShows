@@ -1,25 +1,6 @@
 {
   "tvShows": [
     {
-      "original_name": "Planet Earth",
-      "genre_ids": [
-        99
-      ],
-      "name": "Planet Earth",
-      "popularity": 15.516,
-      "origin_country": [
-        "GB"
-      ],
-      "vote_count": 478,
-      "first_air_date": "2006-03-05",
-      "backdrop_path": "/4AJnC8L5CXdqb6tMeUBL5jdHfuG.jpg",
-      "original_language": "en",
-      "id": 1044,
-      "vote_average": "10",
-      "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
-      "poster_path": "/tI5hLHgrfOTOhPjX22vlo9YsdgE.jpg"
-    },
-    {
       "original_name": "I Am Not an Animal",
       "genre_ids": [
         16,
@@ -40,23 +21,45 @@
       "poster_path": "/nMhv6jG5dtLdW7rgguYWvpbk0YN.jpg"
     },
     {
-      "original_name": "Breaking Bad",
+      "original_name": "Planet Earth",
       "genre_ids": [
-        18
+        99
       ],
-      "name": "Breaking Bad",
-      "popularity": 88.747,
+      "name": "Planet Earth",
+      "popularity": 15.516,
+      "origin_country": [
+        "GB"
+      ],
+      "vote_count": 478,
+      "first_air_date": "2006-03-05",
+      "backdrop_path": "/4AJnC8L5CXdqb6tMeUBL5jdHfuG.jpg",
+      "original_language": "en",
+      "id": 1044,
+      "vote_average": "9",
+      "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
+      "poster_path": "/tI5hLHgrfOTOhPjX22vlo9YsdgE.jpg"
+    },
+    {
+      "original_name": "Rick and Morty",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "name": "Rick and Morty",
+      "popularity": 88.865,
       "origin_country": [
         "US"
       ],
-      "vote_count": 3197,
-      "first_air_date": "2008-01-20",
-      "backdrop_path": "/eSzpy96DwBujGFj0xMbXBcGcfxX.jpg",
+      "vote_count": 1182,
+      "first_air_date": "2013-12-02",
+      "backdrop_path": "/mzzHr6g1yvZ05Mc7hNj3tUdy2bM.jpg",
       "original_language": "en",
-      "id": 1396,
-      "vote_average": 8.4,
-      "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "poster_path": "/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg"
+      "id": 60625,
+      "vote_average": 8.5,
+      "overview": "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "poster_path": "/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg"
     },
     {
       "original_name": "Sherlock",
@@ -141,26 +144,27 @@
       "poster_path": "/dg7NuKDjmS6OzuNy33qt8kSkPA1.jpg"
     },
     {
-      "original_name": "Avatar: The Last Airbender",
+      "original_name": "Over the Garden Wall",
       "genre_ids": [
-        28,
-        12,
         16,
-        14
+        35,
+        9648,
+        10751,
+        10765
       ],
-      "name": "Avatar: The Last Airbender",
-      "popularity": 17.723,
+      "name": "Over the Garden Wall",
+      "popularity": 23.134,
       "origin_country": [
         "US"
       ],
-      "vote_count": 452,
-      "first_air_date": "2005-02-21",
-      "backdrop_path": "/732azfQ0xUAJNQ48pPfVtCCLVlZ.jpg",
+      "vote_count": 186,
+      "first_air_date": "2014-11-03",
+      "backdrop_path": "/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
       "original_language": "en",
-      "id": 246,
+      "id": 61617,
       "vote_average": 8.3,
-      "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
-      "poster_path": "/sB8V0pQtJZ17v8FLXMOcYz6045c.jpg"
+      "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
+      "poster_path": "/Ae08TtclKzZG1w5UzFfqPN8Zf7u.jpg"
     },
     {
       "original_name": "Fargo",
@@ -201,29 +205,6 @@
       "vote_average": 8.3,
       "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
       "poster_path": "/uy5QoTu8fc6fGXMCTMbpQJFUEB0.jpg"
-    },
-    {
-      "original_name": "Over the Garden Wall",
-      "genre_ids": [
-        16,
-        35,
-        9648,
-        10751,
-        10765
-      ],
-      "name": "Over the Garden Wall",
-      "popularity": 23.134,
-      "origin_country": [
-        "US"
-      ],
-      "vote_count": 186,
-      "first_air_date": "2014-11-03",
-      "backdrop_path": "/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "original_language": "en",
-      "id": 61617,
-      "vote_average": 8.3,
-      "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
-      "poster_path": "/Ae08TtclKzZG1w5UzFfqPN8Zf7u.jpg"
     },
     {
       "original_name": "Gravity Falls",
