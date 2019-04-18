@@ -17,9 +17,8 @@
     "client": "npm run start --prefix client",
     "dev": "concurrently \"npm run start\" \"npm run client\"",
     "server-install":"npm run install",
-    "client-install":"npm run install --prefix client",
-    "install-all-deps":"concurrently \"npm run server-install\" \"npm run client-install\""
+    "client-install":"npm run install --prefix client"
   },
-  "author": "Edmin Skalonjic",
+  "author": "",
   "license": "ISC"
 }
