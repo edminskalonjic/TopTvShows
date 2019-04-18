@@ -7,6 +7,7 @@ const FIELDS = [
     {name:'overview', label:'Description', errorMessage :'Description is required'},
     {name:'vote_average', label:'IMDB', errorMessage: 'IMDB is required'}
 ]; 
+
 class TvShowFormEdit extends React.Component{
 
     inputField({input, label, meta :{error, touched}}){

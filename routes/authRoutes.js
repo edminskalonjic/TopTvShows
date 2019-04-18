@@ -1,5 +1,5 @@
- const passport = require('passport');
- const requireLogin= require('../middlewares/requireLogin');
+const passport = require('passport');
+const requireLogin= require('../middlewares/requireLogin');
 
 module.exports = app => {
     app.get('/auth/google', passport.authenticate('google',{

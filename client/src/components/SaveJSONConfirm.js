@@ -1,10 +1,10 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import {connect} from 'react-redux';
+
 import RequireLogin from './RequireLogin';
 
 const SaveJSONConfirm = ({isSignedIn})=>{
-    
     if(isSignedIn === null){
         return null;
     }else if(isSignedIn=== false){

@@ -9,7 +9,11 @@ module.exports = () =>{
         };
         const data = JSON.stringify(dataBase, null, 2);
         fs.writeFile('./jsonData/tvShows.json', data, err => {
-            console.log('Everything ok-Loaded');
+            if (err){
+                console.log(err);
+                throw err;
+            }
+            console.log('JSON database successfully loaded');
         });
     });
 }

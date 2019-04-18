@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require("path");
-const myPath = path.resolve('jsonData', 'tvShows.json');
 const requireLogin= require('../middlewares/requireLogin');
+
+const pathToJsonFile = path.resolve('jsonData', 'tvShows.json');
 
 module.exports = app => {
     app.get('/savejsonfile', requireLogin, (req, resp) => {
@@ -15,8 +16,12 @@ module.exports = app => {
         }
         const pathForSaving = path.resolve(dir, 'tvshows.json');
         
-        fs.copyFile(myPath, pathForSaving, (err) =>{
-            console.log('File was copied');
+        fs.copyFile(pathToJsonFile, pathForSaving, (err) =>{
+            if (err){
+                console.log(err);
+                throw err;
+            }
+            console.log('tvShows.json successfully copied to /JSON/tvShows.json');
         });
         resp.redirect('/tvshows');        
     })

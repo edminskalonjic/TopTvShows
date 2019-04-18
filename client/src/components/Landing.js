@@ -1,9 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
 
-
 class Landing extends React.Component{
-
     renderContent(){
         return(
             <div>
@@ -28,14 +26,13 @@ class Landing extends React.Component{
             </div>
         );
     }
-
     render(){
         if(this.props.isSignedIn === null){
             return null;
         }else if(this.props.isSignedIn === false){
             return(          
                 <div >
-                    <h5>Welcome! Please Login using your Google Account to see and modifiy top 20 movies!</h5>
+                    <h5>Welcome! Please Login using your Google Account in order to watch and modify the details of the 20 best TV shows!</h5>
                     <br/>
                     {this.renderContent()}
                 </div>            
@@ -43,7 +40,7 @@ class Landing extends React.Component{
         }
         return(          
             <div >
-                <h5>Welcome User, you can see and modifiy top 20 tv shows(fetched from themoviedb.org API) and write JSON in a file on disk!</h5>
+                <h5>Welcome user, you can watch and modify the details of the 20 best TV shows(fetched from themoviedb.org API) and write JSON to the file on disk!</h5>
                 <br/>
                 {this.renderContent()}
             </div>            

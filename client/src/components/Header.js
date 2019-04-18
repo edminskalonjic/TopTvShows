@@ -37,7 +37,7 @@ class Header extends React.Component{
                 to={this.props.isSignedIn ? '/tvshows' : '/landing'} 
                 className="left brand-logo"
                 >
-                Top 20 TV Shows
+                Top 20 Shows
                 </Link>
                     {this.renderContent()}
                 </div>

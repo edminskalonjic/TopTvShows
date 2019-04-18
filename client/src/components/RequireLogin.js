@@ -8,5 +8,4 @@ const RequireLogin = ()=>{
         </div>
     );
 }
-
 export default RequireLogin;

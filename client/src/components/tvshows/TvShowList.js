@@ -16,24 +16,31 @@ class TvShowList extends React.Component{
     renderTvShows(){
         const imgURL = 'https://image.tmdb.org/t/p/w500';
         return this.props.tvShows.sort((a,b) => b.vote_average - a.vote_average)
-        .map(({id, poster_path, name, overview}) => {
+        .map(({id, poster_path, name, overview, vote_average}) => {
             return (
                 <div className="col s12 m3" key={id}>
-                    <div className="card medium">
+                    <div className="card big">
                         <div 
                         className="card-image" 
                         style={{cursor:'pointer'}} 
                         onClick={() =>history.push(`/tvshow/${id}`)}
                         >
-                            <img src={`${imgURL}/${poster_path}`} alt="..." />
+                            <img height="300px" src={`${imgURL}/${poster_path}`} alt="..." />
                             <span className="card-title">{name}</span>
+                            <p 
+                            class="btn-floating halfway-fab waves-effect waves-light red" 
+                            style={{textAlign:'center'}}
+                            >
+                            {vote_average}
+                            </p>
                         </div>
-                        <div className="card-content">
-                            <p>{overview}</p>
+                        <div className="card-content" style={{height:'100px'}}>
+                            <p>{`${overview.substring(0,70)}...`}</p>
                         </div>
                         <div className="card-action" >
                             <Link to={`/edit/tvshow/${id}`} style={{color:'blue'}}>Edit</Link>
                             <Link to={`/delete/tvshow/${id}`} style={{color:'blue'}} className="right">Remove</Link>
+
                         </div>
                     </div>
                 </div>

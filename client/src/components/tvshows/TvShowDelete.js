@@ -22,7 +22,7 @@ class TvShowDelete extends React.Component{
                 >
                     Delete
                 </button>
-                <Link to ="/tvshows" className="btn " style={{marginTop:'20px', marginLeft:'5px'}}>Cancel</Link>
+                <Link to ="/tvshows" className="btn" style={{marginTop:'20px', marginLeft:'5px'}}>Cancel</Link>
             </div>
         );
     }

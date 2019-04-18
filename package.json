@@ -12,12 +12,14 @@
     "passport": "^0.4.0",
     "passport-google-oauth2": "^0.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js",
     "client": "npm run start --prefix client",
-    "dev": "concurrently \"npm run start\" \"npm run client\""
+    "dev": "concurrently \"npm run start\" \"npm run client\"",
+    "server-install":"npm run install",
+    "client-install":"npm run install --prefix client",
+    "install-all-deps":"concurrently \"npm run server-install\" \"npm run client-install\""
   },
-  "author": "",
+  "author": "Edmin Skalonjic",
   "license": "ISC"
 }

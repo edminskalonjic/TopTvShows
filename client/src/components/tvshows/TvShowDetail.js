@@ -5,7 +5,6 @@ import {Link} from 'react-router-dom';
 import {fetchTvShow} from '../../actions'; 
 import RequireLogin from '../RequireLogin';
 
-
 class TvShowDetail extends React.Component{
     
     componentDidMount(){
@@ -13,7 +12,7 @@ class TvShowDetail extends React.Component{
     }
 
     renderContent(){
-        const {poster_path, backdrop_path, vote_average, overview, title, name} =this.props.tvShow;       
+        const {poster_path, backdrop_path, vote_average, overview, title, name} = this.props.tvShow;       
         const imgURL = `https://image.tmdb.org/t/p/w500${poster_path ? poster_path : backdrop_path}`
         return(
             <div className="card horizontal small " style={{marginTop:'30px', marginBottom:'30px'}}>
