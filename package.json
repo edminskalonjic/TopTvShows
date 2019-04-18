@@ -2,6 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.15.3"
+  },
   "main": "index.js",
   "dependencies": {
     "axios": "^0.18.0",
@@ -16,8 +20,8 @@
     "start": "node index.js",
     "client": "npm run start --prefix client",
     "dev": "concurrently \"npm run start\" \"npm run client\"",
-    "server-install":"npm run install",
-    "client-install":"npm run install --prefix client"
+    "server-install":"npm install",
+    "client-install":"npm install --prefix client"
   },
   "author": "",
   "license": "ISC"
