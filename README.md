@@ -4,9 +4,11 @@
 Installing dependecies and deploying the application:
 
 
-1)Clone this repository using git clone,
+1)Clone this repository using 
 
-2)Change the working directory TopTvShows, and install dependecies on server:
+> git clone https://github.com/edminskalonjic/TopTvShows.git 
+
+2)Change the working directory to TopTvShows, and install dependecies on server:
 
 > cd TopTvShows
 
