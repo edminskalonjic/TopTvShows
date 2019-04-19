@@ -7,7 +7,7 @@
         35
       ],
       "name": "I Am Not an Animal",
-      "popularity": 8.698,
+      "popularity": 7.807,
       "origin_country": [
         "GB"
       ],
@@ -21,25 +21,6 @@
       "poster_path": "/nMhv6jG5dtLdW7rgguYWvpbk0YN.jpg"
     },
     {
-      "original_name": "Planet Earth",
-      "genre_ids": [
-        99
-      ],
-      "name": "Planet Earth",
-      "popularity": 15.516,
-      "origin_country": [
-        "GB"
-      ],
-      "vote_count": 478,
-      "first_air_date": "2006-03-05",
-      "backdrop_path": "/4AJnC8L5CXdqb6tMeUBL5jdHfuG.jpg",
-      "original_language": "en",
-      "id": 1044,
-      "vote_average": "9",
-      "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
-      "poster_path": "/tI5hLHgrfOTOhPjX22vlo9YsdgE.jpg"
-    },
-    {
       "original_name": "Rick and Morty",
       "genre_ids": [
         16,
@@ -48,11 +29,11 @@
         10765
       ],
       "name": "Rick and Morty",
-      "popularity": 88.865,
+      "popularity": 81.103,
       "origin_country": [
         "US"
       ],
-      "vote_count": 1182,
+      "vote_count": 1184,
       "first_air_date": "2013-12-02",
       "backdrop_path": "/mzzHr6g1yvZ05Mc7hNj3tUdy2bM.jpg",
       "original_language": "en",
@@ -62,6 +43,45 @@
       "poster_path": "/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg"
     },
     {
+      "original_name": "Breaking Bad",
+      "genre_ids": [
+        18
+      ],
+      "name": "Breaking Bad",
+      "popularity": 75.622,
+      "origin_country": [
+        "US"
+      ],
+      "vote_count": 3197,
+      "first_air_date": "2008-01-20",
+      "backdrop_path": "/eSzpy96DwBujGFj0xMbXBcGcfxX.jpg",
+      "original_language": "en",
+      "id": 1396,
+      "vote_average": 8.4,
+      "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "poster_path": "/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg"
+    },
+    {
+      "original_name": "Planet Earth II",
+      "genre_ids": [
+        99,
+        10751
+      ],
+      "name": "Planet Earth II",
+      "popularity": 15.977,
+      "origin_country": [
+        "GB"
+      ],
+      "vote_count": 307,
+      "first_air_date": "2016-11-06",
+      "backdrop_path": "/xIt4DDYipMPNu2HDBrhUS4ndSYb.jpg",
+      "original_language": "en",
+      "id": 68595,
+      "vote_average": 8.3,
+      "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+      "poster_path": "/uy5QoTu8fc6fGXMCTMbpQJFUEB0.jpg"
+    },
+    {
       "original_name": "Sherlock",
       "genre_ids": [
         80,
@@ -69,11 +89,11 @@
         9648
       ],
       "name": "Sherlock",
-      "popularity": 52.923,
+      "popularity": 71.558,
       "origin_country": [
         "GB"
       ],
-      "vote_count": 1668,
+      "vote_count": 1669,
       "first_air_date": "2010-07-25",
       "backdrop_path": "/bvS50jBZXtglmLu72EAt5KgJBrL.jpg",
       "original_language": "en",
@@ -90,7 +110,7 @@
         10765
       ],
       "name": "Stranger Things",
-      "popularity": 57.094,
+      "popularity": 57.496,
       "origin_country": [
         "US"
       ],
@@ -110,11 +130,11 @@
         10765
       ],
       "name": "Love, Death & Robots",
-      "popularity": 74.934,
+      "popularity": 61.583,
       "origin_country": [
         "US"
       ],
-      "vote_count": 95,
+      "vote_count": 96,
       "first_air_date": "2019-03-15",
       "backdrop_path": "/e7VzDMrYKXVrVon04Uqsrcgnf1k.jpg",
       "original_language": "en",
@@ -130,11 +150,11 @@
         18
       ],
       "name": "The Wire",
-      "popularity": 27.506,
+      "popularity": 27.079,
       "origin_country": [
         "US"
       ],
-      "vote_count": 790,
+      "vote_count": 791,
       "first_air_date": "2002-06-02",
       "backdrop_path": "/4hWfYN3wiOZZXC7t6B70BF9iUvk.jpg",
       "original_language": "en",
@@ -144,27 +164,23 @@
       "poster_path": "/dg7NuKDjmS6OzuNy33qt8kSkPA1.jpg"
     },
     {
-      "original_name": "Over the Garden Wall",
+      "original_name": "Planet Earth",
       "genre_ids": [
-        16,
-        35,
-        9648,
-        10751,
-        10765
+        99
       ],
-      "name": "Over the Garden Wall",
-      "popularity": 23.134,
+      "name": "Planet Earth",
+      "popularity": 11.579,
       "origin_country": [
-        "US"
+        "GB"
       ],
-      "vote_count": 186,
-      "first_air_date": "2014-11-03",
-      "backdrop_path": "/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "vote_count": 478,
+      "first_air_date": "2006-03-05",
+      "backdrop_path": "/4AJnC8L5CXdqb6tMeUBL5jdHfuG.jpg",
       "original_language": "en",
-      "id": 61617,
+      "id": 1044,
       "vote_average": 8.3,
-      "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
-      "poster_path": "/Ae08TtclKzZG1w5UzFfqPN8Zf7u.jpg"
+      "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
+      "poster_path": "/tI5hLHgrfOTOhPjX22vlo9YsdgE.jpg"
     },
     {
       "original_name": "Fargo",
@@ -173,7 +189,7 @@
         18
       ],
       "name": "Fargo",
-      "popularity": 20.872,
+      "popularity": 25.154,
       "origin_country": [
         "US"
       ],
@@ -187,24 +203,49 @@
       "poster_path": "/e890UetS6XH7kqltlZ8VU6qDaHU.jpg"
     },
     {
-      "original_name": "Planet Earth II",
+      "original_name": "Avatar: The Last Airbender",
       "genre_ids": [
-        99,
-        10751
+        28,
+        12,
+        16,
+        14
       ],
-      "name": "Planet Earth II",
-      "popularity": 14.719,
+      "name": "Avatar: The Last Airbender",
+      "popularity": 19.556,
       "origin_country": [
-        "GB"
+        "US"
       ],
-      "vote_count": 307,
-      "first_air_date": "2016-11-06",
-      "backdrop_path": "/xIt4DDYipMPNu2HDBrhUS4ndSYb.jpg",
+      "vote_count": 452,
+      "first_air_date": "2005-02-21",
+      "backdrop_path": "/732azfQ0xUAJNQ48pPfVtCCLVlZ.jpg",
       "original_language": "en",
-      "id": 68595,
+      "id": 246,
       "vote_average": 8.3,
-      "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
-      "poster_path": "/uy5QoTu8fc6fGXMCTMbpQJFUEB0.jpg"
+      "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "poster_path": "/sB8V0pQtJZ17v8FLXMOcYz6045c.jpg"
+    },
+    {
+      "original_name": "Over the Garden Wall",
+      "genre_ids": [
+        16,
+        35,
+        9648,
+        10751,
+        10765
+      ],
+      "name": "Over the Garden Wall",
+      "popularity": 32.388,
+      "origin_country": [
+        "US"
+      ],
+      "vote_count": 186,
+      "first_air_date": "2014-11-03",
+      "backdrop_path": "/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "original_language": "en",
+      "id": 61617,
+      "vote_average": 8.3,
+      "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
+      "poster_path": "/Ae08TtclKzZG1w5UzFfqPN8Zf7u.jpg"
     },
     {
       "original_name": "Gravity Falls",
@@ -215,7 +256,7 @@
         10765
       ],
       "name": "Gravity Falls",
-      "popularity": 41.011,
+      "popularity": 35.661,
       "origin_country": [
         "US"
       ],
@@ -235,7 +276,7 @@
         18
       ],
       "name": "Peaky Blinders",
-      "popularity": 31.512,
+      "popularity": 27.76,
       "origin_country": [
         "GB"
       ],
@@ -249,6 +290,25 @@
       "poster_path": "/jeWoeUQyHdxGFNZCrzbOUP78FiZ.jpg"
     },
     {
+      "original_name": "Peep Show",
+      "genre_ids": [
+        35
+      ],
+      "name": "Peep Show",
+      "popularity": 41.968,
+      "origin_country": [
+        "GB"
+      ],
+      "vote_count": 140,
+      "first_air_date": "2003-09-19",
+      "backdrop_path": "/xoWBzIxfza235mOkvXt40uZSbqS.jpg",
+      "original_language": "en",
+      "id": 815,
+      "vote_average": 8.1,
+      "overview": "Peep Show is an award-winning British sitcom starring David Mitchell and Robert Webb. The television programme is written by Jesse Armstrong and Sam Bain, with additional material by Mitchell and Webb amongst others. It has been broadcast on Channel 4 since 2003. The show's eighth series makes it the longest-returning comedy in Channel 4 history. Stylistically, the show uses point of view shots with the thoughts of main characters Mark and Jeremy audible as voiceovers.\n\nPeep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician. The pair met at the fictional Dartmouth University, and now share a flat in Croydon, South London. Mark is initially a loan manager at the fictional JLB Credit, later becoming a waiter, and then a bathroom supplies salesman. He is financially secure, but awkward and socially inept, with a pessimistic and cynical attitude. Jeremy, having split up with his girlfriend Big Suze prior to the first episode, now lives in Mark's spare room. He usually has a much more optimistic and energetic outlook on the world than Mark, yet his self-proclaimed talent as a musician has yet to be recognised, and he is not as popular or attractive as he would like to think himself, although he is more successful with the opposite sex than Mark.",
+      "poster_path": "/pqrGyLYS5WIsLXwCuxc46sOP50F.jpg"
+    },
+    {
       "original_name": "Band of Brothers",
       "genre_ids": [
         18,
@@ -256,12 +316,12 @@
         10768
       ],
       "name": "Band of Brothers",
-      "popularity": 24.469,
+      "popularity": 18.621,
       "origin_country": [
         "GB",
         "US"
       ],
-      "vote_count": 1401,
+      "vote_count": 1402,
       "first_air_date": "2001-09-09",
       "backdrop_path": "/1LrtAhWPSEetJLjblXvnaYtl7eA.jpg",
       "original_language": "en",
@@ -276,7 +336,7 @@
         18
       ],
       "name": "The Sopranos",
-      "popularity": 41.787,
+      "popularity": 35.77,
       "origin_country": [
         "US"
       ],
@@ -296,56 +356,18 @@
         9648
       ],
       "name": "Death Note",
-      "popularity": 62.928,
+      "popularity": 62.541,
       "origin_country": [
         "JP"
       ],
-      "vote_count": 489,
+      "vote_count": 490,
       "first_air_date": "2006-10-04",
       "backdrop_path": "/A2j5g79EcWn1oTNCW9PSo7NZRfv.jpg",
       "original_language": "ja",
       "id": 13916,
-      "vote_average": 8.2,
+      "vote_average": 8.3,
       "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
       "poster_path": "/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg"
-    },
-    {
-      "original_name": "Monty Python's Flying Circus",
-      "genre_ids": [
-        35
-      ],
-      "name": "Monty Python's Flying Circus",
-      "popularity": 13.166,
-      "origin_country": [
-        "GB"
-      ],
-      "vote_count": 237,
-      "first_air_date": "1969-10-05",
-      "backdrop_path": "/wmmvTK45ef2ymnB3f4quC4IEcBy.jpg",
-      "original_language": "en",
-      "id": 849,
-      "vote_average": 8.2,
-      "overview": "Monty Python’s Flying Circus is a British sketch comedy series created by the comedy group Monty Python and broadcast by the BBC from 1969 to 1974. The shows were composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines. It also featured animations by Terry Gilliam, often sequenced or merged with live action. The first episode was recorded on 7 September and broadcast on 5 October 1969 on BBC One, with 45 episodes airing over four series from 1969 to 1974, plus two episodes for German TV.\n\nThe show often targets the idiosyncrasies of British life, especially that of professionals, and is at times politically charged. The members of Monty Python were highly educated. Terry Jones and Michael Palin are Oxford University graduates; Eric Idle, John Cleese, and Graham Chapman attended Cambridge University; and American-born member Terry Gilliam is an Occidental College graduate. Their comedy is often pointedly intellectual, with numerous erudite references to philosophers and literary figures. The series followed and elaborated upon the style used by Spike Milligan in his ground breaking series Q5, rather than the traditional sketch show format. The team intended their humour to be impossible to categorise, and succeeded so completely that the adjective \"Pythonesque\" was invented to define it and, later, similar material.",
-      "poster_path": "/nKiyYqYcRcQLgkLk0LFtRgtGMen.jpg"
-    },
-    {
-      "original_name": "Peep Show",
-      "genre_ids": [
-        35
-      ],
-      "name": "Peep Show",
-      "popularity": 29.977,
-      "origin_country": [
-        "GB"
-      ],
-      "vote_count": 140,
-      "first_air_date": "2003-09-19",
-      "backdrop_path": "/xoWBzIxfza235mOkvXt40uZSbqS.jpg",
-      "original_language": "en",
-      "id": 815,
-      "vote_average": 8.1,
-      "overview": "Peep Show is an award-winning British sitcom starring David Mitchell and Robert Webb. The television programme is written by Jesse Armstrong and Sam Bain, with additional material by Mitchell and Webb amongst others. It has been broadcast on Channel 4 since 2003. The show's eighth series makes it the longest-returning comedy in Channel 4 history. Stylistically, the show uses point of view shots with the thoughts of main characters Mark and Jeremy audible as voiceovers.\n\nPeep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician. The pair met at the fictional Dartmouth University, and now share a flat in Croydon, South London. Mark is initially a loan manager at the fictional JLB Credit, later becoming a waiter, and then a bathroom supplies salesman. He is financially secure, but awkward and socially inept, with a pessimistic and cynical attitude. Jeremy, having split up with his girlfriend Big Suze prior to the first episode, now lives in Mark's spare room. He usually has a much more optimistic and energetic outlook on the world than Mark, yet his self-proclaimed talent as a musician has yet to be recognised, and he is not as popular or attractive as he would like to think himself, although he is more successful with the opposite sex than Mark.",
-      "poster_path": "/pqrGyLYS5WIsLXwCuxc46sOP50F.jpg"
     },
     {
       "original_name": "Only Fools and Horses",
@@ -353,7 +375,7 @@
         35
       ],
       "name": "Only Fools and Horses",
-      "popularity": 14.865,
+      "popularity": 12.481,
       "origin_country": [
         "GB"
       ],
@@ -365,6 +387,25 @@
       "vote_average": 7.9,
       "overview": "The misadventures of two wheeler dealer brothers Del Boy and Rodney Trotter of “Trotters Independent Traders PLC” who scrape their living by selling dodgy goods believing that next year they will be millionaires.",
       "poster_path": "/3UIzEm9dyT3DloFQOfJHwvcF52u.jpg"
+    },
+    {
+      "original_name": "Monty Python's Flying Circus",
+      "genre_ids": [
+        35
+      ],
+      "name": "Monty Python's Flying Circus",
+      "popularity": 13.725,
+      "origin_country": [
+        "GB"
+      ],
+      "vote_count": 237,
+      "first_air_date": "1969-10-05",
+      "backdrop_path": "/wmmvTK45ef2ymnB3f4quC4IEcBy.jpg",
+      "original_language": "en",
+      "id": 849,
+      "vote_average": 8.2,
+      "overview": "Monty Python’s Flying Circus is a British sketch comedy series created by the comedy group Monty Python and broadcast by the BBC from 1969 to 1974. The shows were composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines. It also featured animations by Terry Gilliam, often sequenced or merged with live action. The first episode was recorded on 7 September and broadcast on 5 October 1969 on BBC One, with 45 episodes airing over four series from 1969 to 1974, plus two episodes for German TV.\n\nThe show often targets the idiosyncrasies of British life, especially that of professionals, and is at times politically charged. The members of Monty Python were highly educated. Terry Jones and Michael Palin are Oxford University graduates; Eric Idle, John Cleese, and Graham Chapman attended Cambridge University; and American-born member Terry Gilliam is an Occidental College graduate. Their comedy is often pointedly intellectual, with numerous erudite references to philosophers and literary figures. The series followed and elaborated upon the style used by Spike Milligan in his ground breaking series Q5, rather than the traditional sketch show format. The team intended their humour to be impossible to categorise, and succeeded so completely that the adjective \"Pythonesque\" was invented to define it and, later, similar material.",
+      "poster_path": "/nKiyYqYcRcQLgkLk0LFtRgtGMen.jpg"
     }
   ]
 }

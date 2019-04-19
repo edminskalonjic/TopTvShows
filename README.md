@@ -8,23 +8,20 @@ Installing dependecies and deploying the application:
 
 > git clone https://github.com/edminskalonjic/TopTvShows.git 
 
-2)Change the working directory to TopTvShows, and install dependecies on server:
+2)Change the working directory to TopTvShows, and install dependecies on server (using npm run install-server) :
 
 > cd TopTvShows
 
-> npm install
+> npm run install-server
 
-2)Change the working directory to client (TopTvShows/client) and install dependecies on client:
+3)Install dependecies on client:
 
->cd client
+>npm run install-client
 
->npm install
-
-3)Change the directory back (move one directory upwards) and run the app:
-
->cd ..
+3)Run the app:
 
 >npm run dev
+
 
 
 Application description:
